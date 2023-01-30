@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-image: linear-gradient(to right, #F7931A, #FBDC3C);
+    }
+  </style>
+</head>
+<body>
+</body>
+</html>
+
+    <!-- First page: Welcome -->
+    <header>
+      <h1>Crypto</h1>
+    </header>
+    <div class="container">
+      <p>Cryptocurrency is a digital or virtual currency that uses cryptography to secure and verify transactions as well as to control the creation of new units of a specific cryptocurrency. Cryptocurrencies are decentralized and operate on a technology called blockchain, which is a public ledger of all transactions that is maintained by a network of computers.
+
+Some of the most well-known cryptocurrencies include Bitcoin, Ethereum, Ripple, and Litecoin. Cryptocurrencies can be used as a medium of exchange, a store of value, or as a unit of account. They can also be traded on cryptocurrency exchanges and used to purchase goods and services.
+
+Cryptocurrency operates differently from traditional fiat currencies, as they are not backed by governments or central banks, and their value is not tied to any physical asset or commodity. This has made cryptocurrencies an attractive alternative for some investors and a controversial topic in the financial world.</p>
+    
+    <!-- Third page: Trading -->
+    <header>
+      <h1>Trading</h1>
+    </header>
+    <div class="container">
+      <p>Cryptocurrency trading refers to the buying and selling of digital currencies such as Bitcoin, Ethereum, and others in financial markets. Here are some key aspects of crypto trading:
+
+Volatility: Cryptocurrency markets are known for their high volatility, which means that prices can rapidly change in a short period of time. This can offer significant opportunities for profits, but also increases the risk of losses.
+
+Decentralization: Unlike traditional financial markets, cryptocurrency markets are decentralized, meaning that there is no central authority that oversees the market.
+
+Liquidity: Some cryptocurrencies have high liquidity, meaning that it's easy to buy and sell large amounts without affecting the price, while others have low liquidity, meaning that large trades can move the price.
+
+Risk Management: Crypto trading involves managing risk, such as market volatility, security risks associated with storing digital assets, and regulatory risks.
+
+Trading Strategies: Traders use various strategies to trade cryptocurrencies, such as technical analysis, fundamental analysis, and others.
+
+Regulations: The regulatory environment for cryptocurrency trading varies by country and is constantly evolving, so it's important to stay informed about the latest developments in your jurisdiction.
+
+It's important to note that cryptocurrency trading is not suitable for everyone, and can be extremely risky. Before engaging in crypto trading, it's recommended to thoroughly educate yourself, understand the risks involved, and have a well-thought-out trading strategy.</p>
+    </div>
+    
+    <!-- Fourth page: Crypto History -->
+    <header>
+      <h1>Crypto History</h1>
+    </header>
+    <div class="container">
+      <p>Cryptocurrency, also known as digital or virtual currency, has a relatively short but rapidly evolving history. Here is a brief overview:
+
+2009: The first cryptocurrency, Bitcoin, is created by an unknown person using the pseudonym Satoshi Nakamoto. The goal of Bitcoin was to create a decentralized digital currency that would allow for peer-to-peer transactions without the need for intermediaries like banks.
+
+2011: Namecoin becomes the first altcoin (alternative cryptocurrency) to Bitcoin. Altcoins are alternative versions of Bitcoin that offer different features or address different market niches.
+
+2013: The value of Bitcoin reaches its first peak, reaching a value of over $1,000 per Bitcoin.
+
+2014: The first initial coin offerings (ICOs) begin to take place, allowing startups to raise funds by issuing their own tokens or coins.
+
+2016: The blockchain technology that underlies Bitcoin is applied to other use cases beyond just digital currencies, such as supply chain management, voting systems, and more.
+
+2017: The value of Bitcoin reaches its all-time high of over $19,000 per Bitcoin, while the overall market capitalization of the crypto market reaches hundreds of billions of dollars.
+
+2018: Regulatory bodies around the world begin to take a closer look at the crypto market, with some countries implementing more restrictive policies.
+
+2020: The COVID-19 pandemic leads to increased interest in the crypto market, as many investors look for alternative investments outside of traditional markets.
+
+Today, the crypto market continues to evolve and grow, with hundreds of cryptocurrencies in existence and new uses for blockchain technology being discovered all the time.</p>
+    </div>
+    
+    <!-- Fifth page: Instagram -->
+    <header>
+      <h1>My Instagram</h1>
+    </header>
+    <div class="container">
+      <p>You can find me on Instagram as <a href="https://www.instagram.com/jan.petric">@jan.petric</a></p>
+    </div>
+  </body>
+</html>
